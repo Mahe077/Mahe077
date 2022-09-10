@@ -15,7 +15,7 @@
     <!--React-->
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" height="30" />
     <!--Node-->
-    <img align="center" src="https://commons.wikimedia.org/wiki/File:Node.js_logo.svg" alt="react" width="30" height="30" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node" width="30" height="30" />
     <!-- Postman -->
     <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/>
     <!-- Figma -->
