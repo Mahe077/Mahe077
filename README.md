@@ -34,16 +34,9 @@
      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"                  alt="linkedin" height="30" width="30" /> &nbsp;
     </a>
 </p>
-<!--  <summary>:zap: GitHub Stats</summary>  -->
+<summary>:zap: GitHub Stats</summary>
 <br/>
-<p>&nbsp;
- <img  align="center" alt="Mahesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mahe077&theme=vue&show_icons=true&locale=en" />
 
-
-
-
-
- <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahe077&theme=vue&show_icons=true&locale=en" alt="mahe077" /></p>
 
 
