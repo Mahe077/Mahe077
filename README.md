@@ -42,7 +42,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahe077&layout=compact&theme=vue)
 
-**Mahe077/Mahe077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<--**Mahe077/Mahe077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
