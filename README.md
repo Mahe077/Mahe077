@@ -37,18 +37,18 @@
 <!--  <summary>:zap: GitHub Stats</summary>  -->
 <br/>
 <p>&nbsp;
- <img  align="center" alt="Maleesha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MaleeshaGunarathna&show_icons=true&hide_border=true" />
+ <img  align="center" alt="Mahesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mahe077&theme=vue&show_icons=true&locale=en" />
 
 
 
 
 
-<!-- <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahe077&theme=vue&show_icons=true&locale=en" alt="mahe077" /></p> -->
+ <br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahe077&theme=vue&show_icons=true&locale=en" alt="mahe077" /></p>
 
-<!--
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahe077&layout=compact&theme=vue)
-<!--
+
 **Mahe077/Mahe077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
