@@ -1,4 +1,8 @@
 <h2>Hey there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="25px">I’m Mahesh Lakshan </h2>
+<p align="center">
+  <i>An aspiring Full Stack Developer and Computer Science enthusiast</i>
+</p>
+
 <h3 algin="left">👩‍💻 About me: </h3>
 -🎓 &nbsp; Undergraduate in Computer Science at University of Colombo School of Computing <br>
 -🌱 &nbsp; Interested in web development and machine learning
