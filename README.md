@@ -3,6 +3,16 @@
   <i>An aspiring Full Stack Developer and Computer Science enthusiast</i>
 </p>
 
+<p align="center">
+    <!-- email -->
+    <a href="mailto:maheshlakshan766@gmail.com" target="_blank" style="text-decoration: none;">
+     <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white" alt="Email Badge">
+    </a><!-- linkedin   
+  --><a href="https://www.linkedin.com/in/mahesh-lakshan" target="_blank" style="text-decoration: none;">
+     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+    </a>
+</p>
+
 <h3 algin="left">👩‍💻 About me: </h3>
 -🎓 &nbsp; I'm a dedicated and proactive undergraduate pursuing a BSc (Hons) in Computer Science <br>
 -💻 &nbsp; Experienced Full Stack Developer <br>
@@ -36,25 +46,17 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50" />
 </p>
 
+<h3 algin="left">&#x1f4c8; My GitHub Stats</h3>
 
-<h3 align="left">🤝🏻 Connect with me:</h3>
-<p align="left">
-    <!-- email -->
-    <a href="mailto:maheshlakshan766@gmail.com" target="_blank">
-     <img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="email" height="30"            width="30" /> &nbsp;
-    </a>
-    <!-- linkedin   -->
-    <a href="https://www.linkedin.com/in/mahesh-lakshan" target="_blank">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"                  alt="linkedin" height="30" width="30" /> &nbsp;
-    </a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahe077&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahe077&layout=compact&size_weight=0.5&count_weight=0.5&theme=transparent&hide=css)
+
+
+
+<p align="center">
+  "Code is like humor. When you have to explain it, it’s bad." - Cory House
 </p>
-<summary>:zap: GitHub Stats</summary>
-<br/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahe077&theme=vue&show_icons=true&locale=en" alt="mahe077" /></p>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahe077&layout=compact&theme=vue)
 
 <!--
 **Mahe077/Mahe077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
