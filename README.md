@@ -4,8 +4,9 @@
 </p>
 
 <h3 algin="left">👩‍💻 About me: </h3>
--🎓 &nbsp; I'm a dedicated and proactive undergraduate pursuing a BSc (Hons) in Computer Science, with a passion for building and contributing to innovative software solutions <br>
+-🎓 &nbsp; I'm a dedicated and proactive undergraduate pursuing a BSc (Hons) in Computer Science <br>
 -💻 &nbsp; Experienced Full Stack Developer <br>
+-❤️ &nbsp; Have a passion for building and contributing to innovative software solutions <br>
 -🔭 &nsbp; I'm constantly exploring new technologies to expand my skill set and improve the user experience.
 <h3 align="left">💻Languages and Tools:</h3>
 <p align="left">
