@@ -8,27 +8,35 @@
 -💻 &nbsp; Experienced Full Stack Developer <br>
 -❤️ &nbsp; Passionate about building and enhancing software that improves user experiences. <br>
 -🔭 &nbsp; I'm constantly exploring new technologies to expand my skill set.
-<h3 align="left">💻Languages and Tools:</h3>
+
+<h3 align="left">🧰 ToolBox</h3>
 <p align="left">
-    <!-- Python -->
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-    <!-- C++ -->
-    <img align="center" src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" alt="cplusplus" width="30" height="30"/>
-    <!-- PHP -->
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/>
-    <!-- JavaScript -->
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-    <!--React-->
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" height="30" />
-    <!--Node-->
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node" width="30" height="30" />
-    <!-- Postman -->
-    <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/>
-    <!-- Figma -->
-    <img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" />
-    <!--git -->
-    <img align="center" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="git" width="30" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width=50 height=50 alt="pytorch"/>
+  <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="javscript" width=50 height=50 />  
+  <img src="https://github.com/get-icon/geticon/blob/master/icons/java.svg" width=50 height=50 al="java"/> 
+  <img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" width=50 height=50 alt="c"/>
+  <img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" alt="cplusplus" width="50" height="50"/> 
+  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> 
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width=50 height=50 alt="mongo"/>
+  <img src="https://github.com/get-icon/geticon/blob/master/icons/oracle.svg" width=50 height=50 alt="oracle"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width=50 height=50 alt="mysql"/>
+  <img src="https://github.com/get-icon/geticon/blob/master/icons/postgresql.svg" width=50 height=50 alt="postgresql"/>
+  
+  <img src="https://github.com/get-icon/geticon/blob/master/icons/angular-icon.svg" width=50 height=50 alt="angular"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50" /> 
+  <img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs.svg" width=50 height=50 alt="nodejs"/>
+
+  <img src="https://github.com/get-icon/geticon/blob/master/icons/bootstrap.svg" width=50 height=50 alt="bootstrap"/>
+  
+  <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="git" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
+  
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50" />
 </p>
+
+
 <h3 align="left">🤝🏻 Connect with me:</h3>
 <p align="left">
     <!-- email -->
