@@ -28,6 +28,7 @@
   <img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" width=50 height=50 alt="c"/>
   <img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" alt="cplusplus" width="50" height="50"/> 
   <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> 
+  <img  src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50"/> 
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width=50 height=50 alt="mongo"/>
   <img src="https://github.com/get-icon/geticon/blob/master/icons/oracle.svg" width=50 height=50 alt="oracle"/>
