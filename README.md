@@ -49,12 +49,12 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50" />
 </p>
 
-<h3 algin="left">&#x1f4c8; My GitHub Stats</h3>
+<!-- <h3 algin="left">&#x1f4c8; My GitHub Stats</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahe077&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahe077&layout=compact&size_weight=0.5&count_weight=0.5&theme=transparent&hide=css)
-
+-->
 
 
 <p align="center">
@@ -74,4 +74,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---!>
+-->
