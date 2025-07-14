@@ -14,7 +14,7 @@
 </p>
 
 <h3 algin="left">👩‍💻 About me: </h3>
--🎓 &nbsp; I'm a dedicated and proactive undergraduate pursuing a BSc (Hons) in Computer Science <br>
+-🎓 &nbsp; BSc (Hons) in Computer Science <br>
 -💻 &nbsp; Experienced Full Stack Developer <br>
 -❤️ &nbsp; Passionate about building and enhancing software that improves user experiences. <br>
 -🔭 &nbsp; I'm constantly exploring new technologies to expand my skill set.
